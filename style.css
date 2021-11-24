@@ -1,0 +1,70 @@
+p {
+    color:black;
+  text-align: center;
+  font-size: 60px;
+  margin-top: 0px;
+}
+
+H1 {
+    text-align: center;
+    color: black;
+}
+
+
+#container
+{
+color:white;
+align-items: center;
+  margin: 5px;
+  padding: 5px;
+}
+
+#fortune
+{
+align-items: center;
+  background-color:gainsboro;
+  padding: 5px;
+}
+
+    header {
+        background-color: lightskyblue;
+        padding: 10px;
+    }
+  /*Header style END*/
+  .container {
+      margin-top: 1em;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+  }
+  
+  .col {
+      background-color:white;
+      text-align: center;
+      margin: .5em;
+  }
+  
+  
+  /* Card CSS*/
+  .index-pic {
+      margin: .5em;
+  }
+  
+  h2, h3 {
+      font-family: 'Tenor Sans', sans-serif;
+      text-align: center;
+      margin: .2em;
+  }
+  
+  ol:hover {
+      margin-top: 1em;
+      color: black;
+      background-color: blue;
+      background-color: rgb(0, 199, 0);
+      transform: scale(.1.5);
+      transition-delay: .3s;
+      transition-duration: 2s;
+  }
+  
+  /* Card CSS END*/
+  
